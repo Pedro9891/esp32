@@ -8,8 +8,8 @@ import network
 
 
 
-ssidRouter     = 'TN_24GHz_1CD6B7' #Enter the router name
-passwordRouter = 'AC3A73A468' #Enter the router password
+ssidRouter     = '*************' #Enter the router name
+passwordRouter = '**********' #Enter the router password
 
 def STA_Setup(ssidRouter,passwordRouter):
     print("Setup start")
